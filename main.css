@@ -35,3 +35,12 @@
     top: -150px;;
   }
 }
+
+@media (max-width: 320px) {
+  #imag{
+    float: left;
+    position: relative;
+    top: -205px;
+    right: -350px;
+  }
+}
